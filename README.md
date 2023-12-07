@@ -12,4 +12,4 @@
 
 Моя краткосрочная цель – получить знания и опыт в тестировании для дальнейшей работы в этой сфере. 
 
-![Изображение]https://yt3.googleusercontent.com/AiatAgYZlhgmhL92_XIxPl9LtUimUCJ5XlgqRCVbxDG1HkafsiVaOh72dosDiAw2r0K-AvSjkw=s900-c-k-c0x00ffffff-no-rj
+![Изображение] (https://yt3.googleusercontent.com/AiatAgYZlhgmhL92_XIxPl9LtUimUCJ5XlgqRCVbxDG1HkafsiVaOh72dosDiAw2r0K-AvSjkw=s900-c-k-c0x00ffffff-no-rj)
