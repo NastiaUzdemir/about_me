@@ -10,6 +10,6 @@
 
 В качестве своих слабостей назову привязанность к коллективу и неумение отключаться от работы. Кажется, это положительные качества, но по опыту знаю, что они могут привести к выгоранию, поэтому стараюсь работать над этим. 
 
-Моя краткосрочная цель – получить знания и опыт в тестировании для дальнейшей работы в этой сфере. 
-
-![Изображение] (https://yt3.googleusercontent.com/AiatAgYZlhgmhL92_XIxPl9LtUimUCJ5XlgqRCVbxDG1HkafsiVaOh72dosDiAw2r0K-AvSjkw=s900-c-k-c0x00ffffff-no-rj)
+Моя краткосрочная цель – получить знания и опыт в тестировании для дальнейшей работы в этой сфере.
+ 
+![Текст с описанием картинки]([https://picsum.photos/800/600](https://yt3.googleusercontent.com/AiatAgYZlhgmhL92_XIxPl9LtUimUCJ5XlgqRCVbxDG1HkafsiVaOh72dosDiAw2r0K-AvSjkw=s900-c-k-c0x00ffffff-no-rj)https://yt3.googleusercontent.com/AiatAgYZlhgmhL92_XIxPl9LtUimUCJ5XlgqRCVbxDG1HkafsiVaOh72dosDiAw2r0K-AvSjkw=s900-c-k-c0x00ffffff-no-rj)
